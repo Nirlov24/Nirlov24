@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nirlov Deb</h1>
 <h3 align="center">Everything...affects everything</h3>
 
+[![@nirlov's Holopin board](https://holopin.io/api/user/board?user=nirlov)](https://holopin.io/@nirlov)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirlov24&label=Profile%20views&color=0e75b6&style=flat" alt="nirlov24" /> </p>
 
 - 🌱 I’m currently learning **Web Development, Game Development**
